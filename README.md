@@ -1,11 +1,11 @@
 # Notion_Link
 [https://www.notion.so/Thread-philosopher-cfe8c6c2922f475bb41122510ae08099](https://kindly-koi-e00.notion.site/Thread-philosopher-cfe8c6c2922f475bb41122510ae08099)
 
-#### 철학자 = Thread
 ![p_image](https://github.com/WEJOJO/Philosopher/assets/46590247/03d66346-b135-430f-967d-30a886b6a136)
 
 
 # 주요 요구 사항
+#### 철학자 = Thread
 - **철학자들을 최대한 살릴 것.**
 - 철학자들은 **생각**(대기 상태)하거나 **식사**/**수면**을 하며 시간을 보냄.
 - 먹지 못한 철학자는 인자로 받게되는 “**밥을 먹지 않고도 생존 가능한 시간**”을 초과하면 죽음.
