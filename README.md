@@ -32,3 +32,9 @@
 ### || (스레드 짝수 && Time_to_die < Time_to_eat x 2) 
 ### || (스레드 홀수 && Time_to_die < Time_to_eat x 3)
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Case: Time_to_die < Time_to_eat + Time_to_sleep (4, 400, 300, 200)
+![Philo3](https://github.com/WEJOJO/Philosopher/assets/46590247/d81f21c8-ec2d-498a-94cc-a91a998a449f)
+
+## Case: 스레드 짝수 && Time_to_die < Time_to_eat x 2 (4, 400, 250, 100)
+![Philo4](https://github.com/WEJOJO/Philosopher/assets/46590247/597a1062-c723-4020-aa23-2348991a20f0)
