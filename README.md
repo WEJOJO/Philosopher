@@ -26,5 +26,8 @@
 
 
 # 생존 불가 케이스의 죽음.
-### (Time_to_die < Time_to_eat + Time_to_sleep) || (스레드 짝수 && Time_to_die < Time_to_eat x 2) || (스레드 홀수 && Time_to_die < Time_to_eat x 3)
+### (Time_to_die < Time_to_eat + Time_to_sleep) 
+### || (스레드 짝수 && Time_to_die < Time_to_eat x 2) 
+### || (스레드 홀수 && Time_to_die < Time_to_eat x 3)
+
 
