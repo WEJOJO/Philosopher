@@ -38,3 +38,6 @@
 
 ## Case: 스레드 짝수 && Time_to_die < Time_to_eat x 2 (4, 400, 250, 100)
 ![Philo4](https://github.com/WEJOJO/Philosopher/assets/46590247/597a1062-c723-4020-aa23-2348991a20f0)
+
+## Case: 스레드 홀수 && Time_to_die < Time_to_eat x 3 (5, 600, 250, 100)
+![Philo5](https://github.com/WEJOJO/Philosopher/assets/46590247/45fe5a3f-ad7b-4ab5-91c3-e5cb50650df4)
