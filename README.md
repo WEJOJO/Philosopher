@@ -3,13 +3,10 @@
 
 ![p_image](https://github.com/WEJOJO/Philosopher/assets/46590247/03d66346-b135-430f-967d-30a886b6a136)
 
-**-철학자 = Thread**
-
-**-Fork = 자원**
-
-**-Fork의 수 : 철학자의 수**
-
-**-철학자당 식사에 필요한 포크 : 2개**
+**철학자 = Thread**
+**Fork = 자원**
+**Fork의 수 : 철학자의 수**
+**철학자당 식사에 필요한 포크 : 2개**
 
 # 주요 요구 사항
 
